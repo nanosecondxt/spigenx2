@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Spigen
+# 👋 Hey, I'm Nanosec
 
 ### 💻 C++ | C# | Web Developer
 
